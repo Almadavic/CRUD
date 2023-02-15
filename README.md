@@ -59,6 +59,6 @@ Bancos de Dados :
 
 # LINKS ADICIONAIS :
 
-Explicação da API em vídeo no YouTube : 
+Explicação da API em vídeo no YouTube : https://youtu.be/VK-RJPl1ALg
 
 Perfil no Linkedin : https://www.linkedin.com/in/victoralmada/
