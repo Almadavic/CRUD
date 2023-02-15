@@ -54,7 +54,7 @@ Bancos de Dados :
 
 - Schema :
 
-<img src="https://user-images.githubusercontent.com/85299065/218934839-23a71182-808e-471b-8314-878347971218.PNG" width="100%" height="100%">
+<img src="https://user-images.githubusercontent.com/85299065/218934839-23a71182-808e-471b-8314-878347971218.PNG" width="60%" height="60%">
 
 
 # LINKS ADICIONAIS :
