@@ -1,12 +1,10 @@
 # CRUD de Pessoas
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Almadavic/security-standard/blob/main/LICENSE)
-
-# O QUE É A APLICAÇÃO :
+## O QUE É A APLICAÇÃO :
 
 Essa é uma aplicação de CRUD básico em que consiste em manipular dados no banco através da entidade Pessoa.
 
-# FUNCIONALIDADES :
+## FUNCIONALIDADES :
 
 - Encontra uma pessoa registrada no sistema por ID.
 - Encontra uma lista de pessoas registradas no sistema.
@@ -14,13 +12,13 @@ Essa é uma aplicação de CRUD básico em que consiste em manipular dados no ba
 - Atualiza dados de uma pessoa do sistema.
 - Deleta uma pessoa do sistema.
 
-# VERSIONAMENTO :
+## VERSIONAMENTO :
 
 Versão do Java: 17
 
 Versão do Spring Boot: 3.0.2
 
-# FERRAMENTAS :
+## FERRAMENTAS :
 
 Back end:
 
@@ -57,7 +55,7 @@ Bancos de Dados :
 <img src="https://user-images.githubusercontent.com/85299065/218934839-23a71182-808e-471b-8314-878347971218.PNG" width="60%" height="60%">
 
 
-# LINKS ADICIONAIS :
+## LINKS ADICIONAIS :
 
 Explicação da API em vídeo no YouTube : https://youtu.be/VK-RJPl1ALg
 
